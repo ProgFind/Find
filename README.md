@@ -15,7 +15,13 @@ Or on Patreon:
 
 Thank you and have fun
 
+This project was made possible by using:
+EPPLUS
+Blazored.Typeahead
+Newtonsoft.Json
+
 Deutsch:
+
 Kleines Programm um Objekte auf Bildern anzuzeigen, zum Beispiel in einem Feuerwehrfahrzeug. Die Parametrierung erfolgt über .xlsx Dateien durch einfaches einfügen der Bilder und Markierung der einzelnen Bereiche mit Rahmen.
 
 Die Software stelle ich kostenlos zur Verfügung.
@@ -28,6 +34,11 @@ Alternativ direkt unterstützen über Patreon: </p>
 
 Danke und viel Spass beim Suchen und Finden.
 
-MIT License
+Verwendete Pakete:
+EPPLUS
+Blazored.Typeahead
+Newtonsoft.Json
 
 Copyright (c) 2021 ProgFind
+
+
