@@ -9,7 +9,7 @@ If you want to support the project, you open Amazon with the Affiliate Link belo
 
 Affiliate Link to Amazon: 
 https://amzn.to/3toEqcT
-
+<a target="_blank" href="https://amzn.to/3toEqcT">Feuerwehr-Dienstvorschriften-Affiliate Link</a>
 
 Or on Patreon:
 <a target="_blank" href="https://www.patreon.com/ProgFind">Patreon</a>
