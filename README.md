@@ -8,7 +8,7 @@ The Software is free to use for private and noncommercial Organizations.
 If you want to support the project, you open Amazon with the Affiliate Link below. And then buy whatever you wish. The product will not be more expensive for you, but I will get a little percantage.
 
 Affiliate Link to Amazon: 
-<a target="_blank" href="https://www.amazon.de/gp/product/3555015842/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3555015842&linkCode=as2&tag=progfind-21&linkId=f8a5da7b923587427f4bad71094882ef">Feuerwehr-Dienstvorschriften-Affiliate Link</a>
+<a target="_blank" href="[https://www.amazon.de/gp/product/3555015842/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3555015842&linkCode=as2&tag=progfind-21&linkId=f8a5da7b923587427f4bad71094882ef](https://amzn.to/3toEqcT)">Feuerwehr-Dienstvorschriften-Affiliate Link</a>
          
 Or on Patreon:
 <a target="_blank" href="https://www.patreon.com/ProgFind">Patreon</a>
